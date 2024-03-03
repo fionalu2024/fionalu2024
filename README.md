@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fionalu2024&label=Profile%20views&color=0e75b6&style=flat" alt="fionalu2024" /> </p>
 
-- 🌱 I’m currently learning **Master of Analytics**
+- 🌱 I’m currently learning **Analytics Program**
 
 - ⚡ Fun fact **Just Dance Lover**
 
